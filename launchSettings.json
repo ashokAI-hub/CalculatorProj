@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CalculatorProj": {
+      "commandName": "Project",
+      "workingDirectory": "src"
+    }
+  }
+}

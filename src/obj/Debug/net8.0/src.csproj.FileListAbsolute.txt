@@ -1,0 +1,15 @@
+/workspaces/CalculatorProj/src/bin/Debug/net8.0/src
+/workspaces/CalculatorProj/src/bin/Debug/net8.0/src.deps.json
+/workspaces/CalculatorProj/src/bin/Debug/net8.0/src.runtimeconfig.json
+/workspaces/CalculatorProj/src/bin/Debug/net8.0/src.dll
+/workspaces/CalculatorProj/src/bin/Debug/net8.0/src.pdb
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.AssemblyInfoInputs.cache
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.AssemblyInfo.cs
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.csproj.CoreCompileInputs.cache
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.sourcelink.json
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.dll
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/refint/src.dll
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.pdb
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/src.genruntimeconfig.cache
+/workspaces/CalculatorProj/src/obj/Debug/net8.0/ref/src.dll
